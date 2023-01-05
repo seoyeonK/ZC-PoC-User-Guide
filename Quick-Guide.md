@@ -19,7 +19,7 @@
 &nbsp;
 ### 1) ADD VM Information
 1. Choose Cloud platform where you will install the VM.
-`
+
     <img src='./Image/2.Source_Target_Installation/1.png' width='500'>
 
 2. To register information of the VM, click `ADD`. 
