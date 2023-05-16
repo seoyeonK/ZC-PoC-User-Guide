@@ -1,4 +1,4 @@
-- [ZConverter PoC User Guide for ZConverter](https://github.com/ZConverter/ZCM-PoC-User-Guide)
+[ZConverter PoC User Guide for ZConverter](https://github.com/ZConverter/ZCM-PoC-User-Guide)
 
 # ZCM-PoC-User-Guide
 
